@@ -1,0 +1,7 @@
+{
+  "name": "tastedbeer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
